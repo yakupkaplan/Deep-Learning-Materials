@@ -1,6 +1,8 @@
 # Deep Learning A-Z™| Python ile Derin Öğrenme
 
-Notes for Udemy Deep Learning A-Z™| Python ile Derin Öğrenme Course:
+Notes for Udemy Deep Learning A-Z™| Python ile Derin Öğrenme Course
+
+
 
 __Udemy Course Link:__ https://www.udemy.com/course/derin-ogrenmeye-giris/
 
