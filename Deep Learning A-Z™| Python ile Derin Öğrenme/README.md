@@ -16,6 +16,6 @@ __Contents:__
 
 __Links:__
 
-__Python Numpy Tutorial (with Jupyter and Colab):__ https://cs231n.github.io/python-numpy-tutorial/
+__Python Numpy Tutorial (with Jupyter and Colab) (Auhor: Justin Johnson):__ https://cs231n.github.io/python-numpy-tutorial/
 
-__TensorFlow, Keras and deep learning, without a PhD:__ https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
+__TensorFlow, Keras and deep learning, without a PhD (Author: Martin GörnerTwitter):__ https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
