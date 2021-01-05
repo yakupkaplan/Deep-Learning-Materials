@@ -14,5 +14,8 @@ __Contents:__
 6. Capsule Nezworks
 7. Generative Adversarial Networks
 
+__Links:__
 
 __Python Numpy Tutorial (with Jupyter and Colab):__ https://cs231n.github.io/python-numpy-tutorial/
+
+__TensorFlow, Keras and deep learning, without a PhD:__ https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
