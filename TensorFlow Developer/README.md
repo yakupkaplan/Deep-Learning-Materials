@@ -2,13 +2,13 @@
 
 Notes for Coursera course TensorFlow Developer for Professional Certificate by DeepLearning.AI
 
-Course Link: https://www.deeplearning.ai/tensorflow-in-practice/
+__Course Link: https://www.deeplearning.ai/tensorflow-in-practice/__
 
-GitHub Link: https://github.com/lmoroney/dlaicourse.git
+__GitHub Link: https://github.com/lmoroney/dlaicourse.git__
 
-__Courses:__
+## Courses:
 
-1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+__1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning__
 
     - A New Programming Paradigm
     - Introduction to Computer Vision
@@ -16,7 +16,7 @@ __Courses:__
     - Using Real-world Images
 
 
-2. Convolutional Neural Networks in TensorFlow
+__2. Convolutional Neural Networks in TensorFlow__
 
     - Exploring a Larger Dataset
     - Augmentation: A technique to avoid overfitting
@@ -24,7 +24,7 @@ __Courses:__
     - Multiclass Classifications
   
 
-3. Natural Language Processing in TensorFlow
+__3. Natural Language Processing in TensorFlow__
 
     - Sentiment in Text
     - Word Embeddings
@@ -32,7 +32,7 @@ __Courses:__
     - Sequence Models and Literature
 
 
-4. Sequences, Time Series and Prediction
+__4. Sequences, Time Series and Prediction__
 
     - Sequences and Prediction
     - Deep Neural Networks for Time Series
