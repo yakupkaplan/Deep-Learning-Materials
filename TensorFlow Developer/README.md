@@ -38,3 +38,5 @@ __4. Sequences, Time Series and Prediction__
     - Deep Neural Networks for Time Series
     - Recurrent Neural Networks for Time Series
     - Real-World Time Series Data
+
+__Note:__ This repo will be updated during the course.
